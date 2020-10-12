@@ -1,4 +1,4 @@
-from LinkedList import Node, arr_titles, LinkedList, arr_artist, arr_node_instance
+from linked_list.node_and_linked_list import Node, arr_titles, LinkedList, arr_artist, arr_node_instance
 
 
 def init_song_title(list_instance):
